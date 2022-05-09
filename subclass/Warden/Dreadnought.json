@@ -1,0 +1,211 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Dreadnought",
+				"abbreviation": "DRN",
+				"full": "Dreadnought",
+				"url": "https://docs.google.com/document/d/1nl3_duvDW8W0IDDXQkUQtFhFtfn1ieBkM-NicyixNTU/view",
+				"authors": [
+					"RenC"
+				],
+				"convertedBy": [
+					"Kaldigo"
+				],
+				"version": "1.0"
+			}
+		],
+		"dateAdded": 1652108106,
+		"dateLastModified": 1652108106
+	},
+	"subclass": [
+		{
+			"name": "Dreadnought",
+			"source": "VSS",
+			"shortName": "Dreadnought",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassFeatures": [
+				"Dreadnought's Call|Warden|VSS|Dreadnought|VSS|3|VSS",
+				"Impenetrable Bastion|Warden|VSS|Dreadnought|VSS|6|VSS",
+				"Mettle|Warden|VSS|Dreadnought|VSS|13|VSS",
+				"Relentless Juggernaut|Warden|VSS|Dreadnought|VSS|20|VSS"
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Dreadnought's Call",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 3,
+			"entries": [
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Bonus Proficiencies|Warden|VSS|Dreadnought|VSS|3|VSS"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Heavy Gunner|Warden|VSS|Dreadnought|VSS|3|VSS"
+				}
+			]
+		},
+		{
+			"name": "Bonus Proficiencies",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 3,
+			"entries": [
+				"When you take on the calling of the Dreadnought at 3rd level, you gain proficiency in simple firearms and heavy martial firearms."
+			]
+		},
+		{
+			"name": "Heavy Gunner",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 3,
+			"entries": [
+				"Also at 3rd level, you can also carry heavy firearms regardless of their weight. Additionally, you can use Strength, rather than Dexterity, for attack and damage rolls using heavy firearms.",
+                "When you use your Warden's Grasp ability, the effect extends to any creature hit by any ranged attacks made by you with a firearm this turn.", 
+                "At 13th level, a marked creature has disadvantage on any attack roll that doesn't target you as until long as you hit it with a ranged firearm attack on your turn. This disadvantage lasts until the start of your next turn."
+			]
+		},
+		{
+			"name": "Impenetrable Bastion",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 6,
+			"entries": [
+				"At 6th level, you gain the two remaining features from Sentinel's Stand. Furthermore, you can wield a shield alongside a firearm, even if the firearm in question has the two handed property.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Sentinel's Stand 2|Warden|VSS|Dreadnought|VSS|6|VSS"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Sentinel's Stand 3|Warden|VSS|Dreadnought|VSS|6|VSS"
+				}
+			]
+		},
+		{
+			"name": "Sentinel's Stand 2",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 6,
+			"entries": [
+				"Wardens are towers that cannot easily be felled. At 1st level, choose one of the following features.",
+				{
+					"type": "entries",
+					"name": "Armor Proficiency",
+					"entries": [
+						"You gain proficiency with heavy armor."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Primal Toughness",
+					"entries": [
+						"Your hit point maximum increases by 1 + your Constitution modifier, and it increases by 1 every time you gain a level in this class."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Stalwart Spirit",
+					"entries": [
+						"You gain proficiency in one saving throw of your choice."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sentinel's Stand 3",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 6,
+			"entries": [
+				"Wardens are towers that cannot easily be felled. At 1st level, choose one of the following features.",
+				{
+					"type": "entries",
+					"name": "Armor Proficiency",
+					"entries": [
+						"You gain proficiency with heavy armor."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Primal Toughness",
+					"entries": [
+						"Your hit point maximum increases by 1 + your Constitution modifier, and it increases by 1 every time you gain a level in this class."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Stalwart Spirit",
+					"entries": [
+						"You gain proficiency in one saving throw of your choice."
+					]
+				}
+			]
+		},
+		{
+			"name": "Mettle",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 13,
+			"entries": [
+				"At 13th level, your determination allows you to shrug off effects that would otherwise harm you. When you are subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+			]
+		},
+		{
+			"name": "Relentless Juggernaut",
+			"source": "DRN",
+			"className": "Warden",
+			"classSource": "VSS",
+			"subclassSource": "DRN",
+			"subclassShortName": "Dreadnought",
+			"page": 1,
+			"level": 13,
+			"entries": [
+				"Starting at 20th level, as an action, you can become the very image of the mobile fortress your calling is named for. For 1 minute, you gain the following benefits:",
+                {
+					"type": "list",
+					"items": [
+						"You gain 40 Temporary Hit Points",
+						"You are immune to any effects that would decrease your walking speed, but you are unable to dash, swim, fly, climb, or hover.",
+						"Your firearms gain the explosive property.",
+						"When you take damage, you may choose to make one additional attack whenever you take the Attack Action. If you take any additional damage before taking attack action, you deal extra damage on each attack equal to the number of damage instances taken."
+					]
+				},
+				"Once you use this feature, you can't use it again until you finish a long rest."
+			]
+		}
+	]
+}
