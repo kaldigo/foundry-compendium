@@ -1,0 +1,127 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "JewelGenasi",
+                "abbreviation": "JG",
+                "full": "TheGiddyLimit",
+                "url": "https://www.dndbeyond.com/races/235184-jewel-genasi",
+                "authors": [
+                    "AriaVehemente"
+                ],
+                "convertedBy": [
+                    "Kaldigo"
+                ],
+                "version": "1.0"
+            }
+        ],
+        "dateAdded": 1652108106,
+        "dateLastModified": 1652108106
+    },
+    "race": [
+        {
+            "name": "Jewel Genasi",
+            "source": "JG",
+            "ability": [
+                {
+                    "con": 2,
+                    "choose": {
+                        "from": [
+                            "cha",
+                            "dex",
+                            "int",
+                            "str",
+                            "wis"
+                        ],
+                        "count": 1
+                    }
+                }
+            ],
+            "size": [
+                "M"
+            ],
+            "speed": 30,
+            "entries": [
+				{
+					"name": "Age",
+					"entries": [
+						"Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Independent and self-reliant, Genasi tended toward a neutral alignment."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet. and like your Earth Gensai cousin you may move across difficult terrain made of earth or stone without expending extra movement."
+					]
+				},
+				{
+					"name": "Spells",
+					"entries": [
+						"You know the Magic Stone cantrip, and Charisma is your stat modifier"
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common, Primordial, and one other language."
+					]
+				},
+				{
+					"name": "Jewel Sensory",
+					"entries": [
+						"Jewel Genasi are able to sense memories of gemstones whether forged into jewellery or in raw forms. These memories can tell a Jewel Genasi beneficial things about the wearer or the location of it. the range is touch. "
+					]
+				}
+            ],
+            "fluff": {
+                "entries": [
+                    {
+						"name": "Basic Overview",
+						"entries": [
+							"As a Jewel Genasi, you are descended from the clever and deceiving Dao usually associated with the mineral quasi-plane, though these traits are not passed on to you. You have however inherited some measure of communication over minerals mainly gemstones such as rubies, diamonds, and emeralds, revelling in secret knowledge that they reveal to you, while also being able to sense them. You tend to avoid rash decisions but are quick thinking and sharp-minded and able to make quick judgments."
+						]
+					},
+					{
+						"name": "Jewel Appearance",
+						"entries": [
+							"All Jewel Genasi are born with a gemstone visible on the body, the some may have deep cavern-like scars like there Earth Genasi cousins. the hair and eyes tend to match the Jewels gemstone but will have a shimmer to it even in dim light, though the color of the three may also change depending on regions, depth, and mood."
+						]
+					},
+					{
+						"name": "Jewel Culture",
+						"entries": [
+							"Unlike there Earthen cousins Jewel Genasi prefer to live in populated areas and be under the sun. Often upon birth Jewel Genasi are taken either by religious orders, miners or even kidnapped by bandits. those that aren't are ofter believed to be Seers or prophets because of their primordial heritage and given better lives than they normally would. though many become adventurers, politicians, and truthseekers. Many a time Jewel Genasi will take their gemstone as there last name. Adult Jewel Genasi will keep there gemstone covered though a few around them may be aware of the secret, if unaffiliated people see a Jewel Genasi they may beg for blessings, or foresight regardless if the Genasi is magical."
+						]
+					}]
+            },
+            "languageProficiencies": [
+                {
+                    "common": true,
+                    "primordial": true,
+					"anyStandard": 1
+                }
+            ],
+			"additionalSpells": [
+				{
+					"known": {
+						"1": [
+							"Magic Stone"
+						]
+					}
+				}
+			]
+        }
+    ]
+}
