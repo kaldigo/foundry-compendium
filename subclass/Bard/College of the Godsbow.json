@@ -1,0 +1,155 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "CollegeoftheGodsbow",
+				"abbreviation": "CotG",
+				"full": "College of the Godsbow",
+				"url": "https://docs.google.com/document/d/1nl3_duvDW8W0IDDXQkUQtFhFtfn1ieBkM-NicyixNTU/view",
+				"authors": [
+					"RenC"
+				],
+				"convertedBy": [
+					"Kaldigo"
+				],
+				"version": "1.0"
+			}
+		],
+		"dateAdded": 1652108106,
+		"dateLastModified": 1652108106
+	},
+	"subclass": [
+		{
+			"name": "College of the Godsbow",
+			"source": "CotG",
+			"shortName": "Godsbow",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassFeatures": [
+				"College of the Godsbow|Bard||Diplomacy|CotG|3",
+				"Nature's Minne|Bard||Diplomacy|CotG|6",
+				"Radiant Finale|Bard||Diplomacy|CotG|14"
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "College of Diplomacy",
+			"source": "CotG",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Godsbow",
+			"subclassSource": "CotG",
+			"level": 3,
+			"entries": [
+				"Bards of the College of Diplomacy under stand that statecraft, like music or drama, is a complicated artform. Formally trained as couriers, aides, stewards, geishas, and ambassadors, these performers use civility and social protocol to open doors where others cannot. In mastering their craft, these individuals also learn to see the connections between magical and social networks, and recognize how each can influence the other.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Bonus Proficiencies|Bard||Diplomacy|JaekDiplomacyBard|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Bardic Repertoire|Bard||Diplomacy|JaekDiplomacyBard|3"
+				}
+			]
+		},
+		{
+			"name": "Bonus Proficiencies",
+			"source": "CotG",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Godsbow",
+			"subclassSource": "CotG",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"When you join the College of Swords at 3rd level, you gain proficiency in shortbows and longbows.",
+				"You can use any Bow weapons you are proficient in as a spellcasting focus for your bard spells. You can also use Charisma instead of Dexterity for bows you are proficient in."
+			]
+		},
+		{
+			"name": "Bardic Repertoire",
+			"source": "CotG",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Godsbow",
+			"subclassSource": "CotG",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"At 3rd level, you learn how to weave your magic into the very songs you sing. You learn one song when you gain this ability from the list below, and another upon reaching levels 6 and 14 in this class. Starting a song takes a bardic inspiration and an action and lasts for a full minute. You can stop singing at any time as a free action.To carry on singing you must maintain concentration as you would for a spell and you cannot cast any songs that require verbal components unless otherwise specified.You can only use each song once per short rest.",
+				"Each song has two effects. The first of which affects you, the Performer, exclusively and the second affects both you and a number of target allies within 60ft up to your charisma modifier (minimum of 1), the Audience. Anyone that is defined cannot benefit from the Audience effect. A creature can only benefit from one song at a time.",
+				{
+					"type": "entries",
+					"name": "Mage's Ballad",
+					"entries": [
+						"When you start this song, a number of creatures up to your charisma modifier (minimum of 1) must make a wisdom saving throw against your spell save DC. On a fail, they take damage equal to the number rolled on the bardic inspiration and they can't use reactions until the start of your next turn. On a successful save they only take half damage and can take reactions on normal.",
+                        {
+                            "type": "list",
+                            "items": [
+                                "Performer. Whenever you or a member of the Audience casts a spell, the next ranged attack with a bow you make deals bonus damage equal to 1d4 plus the level of the spell (this damage doesn't stack), and you gain a repertoire stack. You can hold a number of repertoire stacks equal to your charisma modifier. You can add your repertoire stacks to any spell damage roll you make. You lose a repertoire stack each time you take damage or all of them when the song ends.",
+                                "Audience. Whenever you or a member of the audience casts a spell of 5th level or lower, they can instead choose to cast it at a level of one higher than the expended spell slot."
+                            ]
+                        }
+					]
+				},
+                {
+					"type": "entries",
+					"name": "Army's Paeon",
+					"entries": [
+						"When you start this song, a number of creatures up to your charisma modifier (minimum of 1) must make a wisdom saving throw against your spell save DC. On a fail, they take damage equal to the number rolled on the bardic inspiration and they can't crit until the start of your next turn. On a successful save they only take half damage and can crit as normal.",
+                        {
+                            "type": "list",
+                            "items": [
+                                "Performer. Whenever you or a member of the Audience lands a crit, you may take your next ranged weapon attack with advantage and you gain a Repertoire Stack. You can only benefit from the advantage once a turn. You lose a repertoire stack each time you take damage or all of them when the song ends and you can spend them to gain a bonus to hit on your next attack roll equal to the number of stacks spent.",
+                                "Audience. You and audience members have an increased crit range of 19-20 and they reroll any 1s on a crit damage roll. If they would already crit on a 19, they add an additional damage dice to their roll."
+                            ]
+                        }
+					]
+				},
+                {
+					"type": "entries",
+					"name": "Wanderer's Minuet",
+					"entries": [
+						"When you start this song, a number of creatures up to your charisma modifier (minimum of 1) must make a wisdom saving throw against your spell save DC. On a fail, they take damage equal to the number rolled on the bardic inspiration and they can’t disengage until the start of your next turn. On a successful save they only take half damage and can disengage as normal.",
+                        {
+                            "type": "list",
+                            "items": [
+                                "Performer. For every 10 feet you move on your turn, gain a repertoire stack.You can hold a number of Repertoire Stacks equal to your charisma modifier. On your turn you can expend all Repertoire Stacks to make a Pitch Perfect Attack against a target within 60ft. Make a ranged weapon attack against the target and instead of 1d8 Thunder Damage for each Repertoire Stack spent plus your Charisma Modifier. You lose a repertoire stack each time you take damage or all of them when the song ends.",
+                                "Audience. You and audience members can disengage as a bonus action. As part of this action, they may also move 10 feet away."
+                            ]
+                        }
+					]
+				}
+			]
+		},
+		{
+			"name": "Nature’s Minne",
+			"source": "CotG",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Godsbow",
+			"subclassSource": "CotG",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"At 6th level, you have started delving into the healing nature of song, granting you knowledge of the Nature's Minne. On your turn, you may use a bonus action to spend a single bardic inspiration. When you do, yourself and a number of allies equal to the number rolled within 30ft of you gain temporary hit points equal to half your level in this class. Furthermore, for the next minute, whenever you would receive healing from any source, increase the amount by half your charisma mod rounded up (minimum of 1). You can use this feature once per long rest."
+			]
+		},
+		{
+			"name": "Radiant Finale",
+			"source": "CotG",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Godsbow",
+			"subclassSource": "CotG",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"At 14th level, your song is reaching its grand climax. You can end one of your songs early by using your action. When you do, trace a 120ftx5ft line from yourself. Each creature on that line must make a dexterity saving throw against your spell save dc plus 1 for each Repertoire Stack. They take 8d6 radiant damage on a failed save and half as much on a successful save.",
+				"This ability has an additional effect based on the song that ended. For Mage's Ballad, the attack does 8d8 damage instead and creatures that fumble the saving throw are blinded until the end of your next turn. For Army's Paeon, reroll any 1s on the damage roll and creatures that fumble the savingl take an additional 2 damage for every 6 rolled. For Wanderer's Minuet, Each Creature within 15 feet of you must make a dexterity saving throw if they haven't already. On a failed save they take 4d4 additional thunder damage and on a fumbled saving throw they are also deafened. On a successful save they only take half damage.",
+				"This ability can only be used once per long rest."
+			]
+		}
+	]
+}
