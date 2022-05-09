@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
 	"_meta": {
 		"sources": [
 			{
@@ -26,15 +27,15 @@
 			"className": "Bard",
 			"classSource": "PHB",
 			"subclassFeatures": [
-				"College of the Godsbow|Bard||Diplomacy|CotG|3",
-				"Nature's Minne|Bard||Diplomacy|CotG|6",
-				"Radiant Finale|Bard||Diplomacy|CotG|14"
+				"College of the Godsbow|Bard||Godsbow|CotG|3",
+				"Nature's Minne|Bard||Godsbow|CotG|6",
+				"Radiant Finale|Bard||Godsbow|CotG|14"
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "College of Diplomacy",
+			"name": "College of the Godsbow",
 			"source": "CotG",
 			"className": "Bard",
 			"classSource": "PHB",
@@ -42,14 +43,13 @@
 			"subclassSource": "CotG",
 			"level": 3,
 			"entries": [
-				"Bards of the College of Diplomacy under stand that statecraft, like music or drama, is a complicated artform. Formally trained as couriers, aides, stewards, geishas, and ambassadors, these performers use civility and social protocol to open doors where others cannot. In mastering their craft, these individuals also learn to see the connections between magical and social networks, and recognize how each can influence the other.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Bard||Diplomacy|JaekDiplomacyBard|3"
+					"subclassFeature": "Bonus Proficiencies|Bard||Godsbow|CotG|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bardic Repertoire|Bard||Diplomacy|JaekDiplomacyBard|3"
+					"subclassFeature": "Bardic Repertoire|Bard||Godsbow|CotG|3"
 				}
 			]
 		},

@@ -21,15 +21,15 @@
 	"subclass": [
 		{
 			"name": "Dreadnought",
-			"source": "VSS",
+			"source": "DRN",
 			"shortName": "Dreadnought",
 			"className": "Warden",
 			"classSource": "VSS",
 			"subclassFeatures": [
-				"Dreadnought's Call|Warden|VSS|Dreadnought|VSS|3|VSS",
-				"Impenetrable Bastion|Warden|VSS|Dreadnought|VSS|6|VSS",
-				"Mettle|Warden|VSS|Dreadnought|VSS|13|VSS",
-				"Relentless Juggernaut|Warden|VSS|Dreadnought|VSS|20|VSS"
+				"Dreadnought's Call|Warden|VSS|Dreadnought|DRN|3",
+				"Impenetrable Bastion|Warden|VSS|Dreadnought|DRN|6",
+				"Mettle|Warden|VSS|Dreadnought|DRN|13",
+				"Relentless Juggernaut|Warden|VSS|Dreadnought|DRN|20"
 			]
 		}
 	],
@@ -46,11 +46,11 @@
 			"entries": [
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Warden|VSS|Dreadnought|VSS|3|VSS"
+					"subclassFeature": "Bonus Proficiencies|Warden|VSS|Dreadnought|DRN|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Heavy Gunner|Warden|VSS|Dreadnought|VSS|3|VSS"
+					"subclassFeature": "Heavy Gunner|Warden|VSS|Dreadnought|DRN|3"
 				}
 			]
 		},
@@ -95,11 +95,11 @@
 				"At 6th level, you gain the two remaining features from Sentinel's Stand. Furthermore, you can wield a shield alongside a firearm, even if the firearm in question has the two handed property.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Sentinel's Stand 2|Warden|VSS|Dreadnought|VSS|6|VSS"
+					"subclassFeature": "Sentinel's Stand 2|Warden|VSS|Dreadnought|DRN|6"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Sentinel's Stand 3|Warden|VSS|Dreadnought|VSS|6|VSS"
+					"subclassFeature": "Sentinel's Stand 3|Warden|VSS|Dreadnought|DRN|6"
 				}
 			]
 		},
