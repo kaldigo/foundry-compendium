@@ -1,0 +1,970 @@
+{
+	"name": "EULA",
+    "type": "deck",
+    "description": "",
+    "img": "cards/terms-of-service/eula/Deck.png",
+    "data": {},
+    "cards": [
+        {
+            "name": "Anabolic Steroids +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Anabolic Steroids Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/AnabolicSteroidsBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Anabolic Steroids",
+                    "img": "cards/terms-of-service/eula/AnabolicSteroidsFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 1,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Where's the Spinach -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Where's the Spinach Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/WherestheSpinachBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Where's the Spinach",
+                    "img": "cards/terms-of-service/eula/WherestheSpinachFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 2,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Omnidexterity +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Omnidexterity Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/OmnidexterityBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Omnidexterity",
+                    "img": "cards/terms-of-service/eula/OmnidexterityFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 3,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Two Left Feet -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Two Left Feet Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/TwoLeftFeetBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Two Left Feet",
+                    "img": "cards/terms-of-service/eula/TwoLeftFeetFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 4,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Fresher's Pub Crawl +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Fresher's Pub Crawl Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/FreshersPubCrawlBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Fresher's Pub Crawl",
+                    "img": "cards/terms-of-service/eula/FreshersPubCrawlFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 5,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "The Millenium Bug/Y2K -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "The Millenium Bug/Y2K Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/TheMilleniumBugBack.png"
+            },
+            "faces": [
+                {
+                    "name": "The Millenium Bug/Y2K",
+                    "img": "cards/terms-of-service/eula/TheMilleniumBugFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 6,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Galaxy Brain +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Galaxy Brain Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/GalaxyBrainBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Galaxy Brain",
+                    "img": "cards/terms-of-service/eula/GalaxyBrainFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 7,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Not the Sharpest Tool -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Not the Sharpest Tool Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/NottheSharpestToolBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Not the Sharpest Tool",
+                    "img": "cards/terms-of-service/eula/NottheSharpestToolFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 8,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "There is No Spoon +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "There is No Spoon Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/ThereisNoSpoonBack.png"
+            },
+            "faces": [
+                {
+                    "name": "There is No Spoon",
+                    "img": "cards/terms-of-service/eula/ThereisNoSpoonFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 9,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "I'm Wearing Shoes? -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "I'm Wearing Shoes? Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/ImWearingShoesBack.png"
+            },
+            "faces": [
+                {
+                    "name": "I'm Wearing Shoes?",
+                    "img": "cards/terms-of-service/eula/ImWearingShoesFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 10,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Silvertongue +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Silvertongue Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/SilvertongueBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Silvertongue",
+                    "img": "cards/terms-of-service/eula/SilvertongueFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 11,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "AFOAMWL -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "AFOAMWL Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/AFOAMWLBack.png"
+            },
+            "faces": [
+                {
+                    "name": "AFOAMWL",
+                    "img": "cards/terms-of-service/eula/AFOAMWLFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 12,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "As Luck Would Have It +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "As Luck Would Have It Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/AsLuckWouldHaveItBack.png"
+            },
+            "faces": [
+                {
+                    "name": "As Luck Would Have It",
+                    "img": "cards/terms-of-service/eula/AsLuckWouldHaveItFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 13,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "The Luck That Never Was -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "The Luck That Never Was Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/TheLuckThatNeverWasBack.png"
+            },
+            "faces": [
+                {
+                    "name": "The Luck That Never Was",
+                    "img": "cards/terms-of-service/eula/TheLuckThatNeverWasFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 14,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "I See Dead People +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "I See Dead People Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/ISeeDeadPeopleBack.png"
+            },
+            "faces": [
+                {
+                    "name": "I See Dead People",
+                    "img": "cards/terms-of-service/eula/ISeeDeadPeopleFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 15,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Bad Trip? -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Bad Trip? Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/BadTripBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Bad Trip?",
+                    "img": "cards/terms-of-service/eula/BadTripFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 16,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Army of One +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Army of One Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/ArmyofOneBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Army of One",
+                    "img": "cards/terms-of-service/eula/ArmyofOneFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 17,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Master of None -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Master of None Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/MasterofNoneBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Master of None",
+                    "img": "cards/terms-of-service/eula/MasterofNoneFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 18,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "YOU SHALL NOT PASS!!! +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "YOU SHALL NOT PASS!!! Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/YOUSHALLNOTPASSBack.png"
+            },
+            "faces": [
+                {
+                    "name": "YOU SHALL NOT PASS!!!",
+                    "img": "cards/terms-of-service/eula/YOUSHALLNOTPASSFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 19,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Pandemonium -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Pandemonium Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/PandemoniumBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Pandemonium",
+                    "img": "cards/terms-of-service/eula/PandemoniumFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 20,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Can't Touch This +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Can't Touch This Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/CantTouchThisBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Can't Touch This",
+                    "img": "cards/terms-of-service/eula/CantTouchThisFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 21,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Can't Keep Your Hands Off -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Can't Keep Your Hands Off Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/CantKeepYourHandsOffBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Can't Keep Your Hands Off",
+                    "img": "cards/terms-of-service/eula/CantKeepYourHandsOffFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 22,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Rabbit +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Rabbit Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/RabbitBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Rabbit",
+                    "img": "cards/terms-of-service/eula/RabbitFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 23,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Turtle -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Turtle Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/TurtleBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Turtle",
+                    "img": "cards/terms-of-service/eula/TurtleFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 24,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Light as a Feather +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Light as a Feather Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/LightasaFeatherBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Light as a Feather",
+                    "img": "cards/terms-of-service/eula/LightasaFeatherFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 25,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Heavy as a Rock -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Heavy as a Rock Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/HeavyasaRockBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Heavy as a Rock",
+                    "img": "cards/terms-of-service/eula/HeavyasaRockFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 26,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Too Sexy For My Shirt +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Too Sexy For My Shirt Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/TooSexyForMyShirtBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Too Sexy For My Shirt",
+                    "img": "cards/terms-of-service/eula/TooSexyForMyShirtFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 27,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Liminal on the Edge -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Liminal on the Edge Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/LiminalontheEdgeBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Liminal on the Edge",
+                    "img": "cards/terms-of-service/eula/LiminalontheEdgeFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 28,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Split the Party +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Split the Party Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/SplitthePartyBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Split the Party",
+                    "img": "cards/terms-of-service/eula/SplitthePartyFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 29,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "And Look For Clues -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "And Look For Clues Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/AndLookForCluesBack.png"
+            },
+            "faces": [
+                {
+                    "name": "And Look For Clues",
+                    "img": "cards/terms-of-service/eula/AndLookForCluesFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 30,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "All Skilled Up +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "All Skilled Up Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/AllSkilledUpBack.png"
+            },
+            "faces": [
+                {
+                    "name": "All Skilled Up",
+                    "img": "cards/terms-of-service/eula/AllSkilledUpFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 31,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Overly Focused Savant -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Overly Focused Savant Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/OverlyFocusedSavantBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Overly Focused Savant",
+                    "img": "cards/terms-of-service/eula/OverlyFocusedSavantFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 32,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "Panic at the Disco +",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "Panic at the Disco Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/PanicattheDiscoBack.png"
+            },
+            "faces": [
+                {
+                    "name": "Panic at the Disco",
+                    "img": "cards/terms-of-service/eula/PanicattheDiscoFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 33,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        },
+        {
+            "name": "See Me In Shadow -",
+            "description": "",
+            "type": "base",
+            "data": {},
+            "suit": "",
+            "back": {
+                "name": "See Me In Shadow Back",
+                "text": "",
+                "img": "cards/terms-of-service/eula/SeeMeInShadowBack.png"
+            },
+            "faces": [
+                {
+                    "name": "See Me In Shadow",
+                    "img": "cards/terms-of-service/eula/SeeMeInShadowFront.png",
+                    "text": ""
+                }
+            ],
+            "face": 0,
+            "drawn": false,
+            "origin": null,
+            "rotation": 0,
+            "sort": 34,
+            "flags": {},
+            "value": null,
+            "width": null,
+            "height": null
+        }
+    ],
+    "width": null,
+    "height": null,
+    "rotation": 0,
+	"displayCount": true,
+	"folder": null,
+	"sort": 0,
+	"permission": {
+		"default": 0
+	}
+}
